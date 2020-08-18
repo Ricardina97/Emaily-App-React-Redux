@@ -1,3 +1,5 @@
+# Email mass sender app with React and Redux:
+
 Hello!
 
 This was a course that I took to try React, MongoDB, Express and NodeJS.
