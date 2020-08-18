@@ -10,7 +10,7 @@ For this application I want to do the following:
 4. Get tabulation of the results;
 5. Make the app better with feedback;
 
-User point of view:
+# User point of view:
 
 1. User uses Google OAuth;
 2. User pays with e-mail credits via stripe;
@@ -19,6 +19,29 @@ User point of view:
 5. We send e-mail list of surveyees;
 6. User can see the report of all the survey responses;
 7. There's feedback tabulation;
+
+# Technologies Used:
+
+1. Express;
+2. MongoDb;
+3. React;
+4. Google OAuth and Facebook OAuth;
+5. Passport;
+6. Cookie Session;
+7. Concurrently;
+8. Materialize CSS;
+9. Webpack;
+10. Axios;
+11. Redux Thunk;
+12. Stripe;
+13. Heroku;
+14. SendGrid;
+15. Redux Form;
+16. Ngrok.
+
+# Final Product:
+
+![Emaily](https://i.giphy.com/j44TXKl06eigBHbJl1.gif)
 
 # Backend side - Server Side
 
