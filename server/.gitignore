@@ -1,2 +1,3 @@
 node_modules
-dev.jsnode_modules
+./config/dev.js
+./config/prd.js
